@@ -1,0 +1,44 @@
+body {
+	width: 80%;
+	height: 600px;
+	margin: 5% auto;
+}
+
+div{
+	margin-top: 0 auto;
+	display: inline-table;
+	width: 15%;
+	background-color: #e6e6e6;
+	padding: 0 10px;
+	color: grey;
+}
+
+h2, h5 {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-size: 14px;
+}
+
+h5 {
+	font-size: 9px;
+	margin-top: 30px;
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-size: 11px;
+}
+
+header {
+	text-align: center;
+	padding: 10px 0;
+	font-size: 50px;
+}
+
+#heart {
+	font-size: 70px;
+}
